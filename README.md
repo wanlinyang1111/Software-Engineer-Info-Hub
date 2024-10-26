@@ -17,17 +17,18 @@ This project is a **simple information website** aimed at providing beginners wi
 - **Information Page**: Introduces key areas of software engineering, including programming fundamentals, data structures and algorithms, and system design.
 - **Resource Links**: Provides links to learn HTML and access programming books.
 - **Table Overview**: Displays essential information about software engineering roles, salary, and commonly used tools.
+- **Favicon**: Implements a small icon (`favicon.ico`) to enhance the website's branding and user experience.
 
 ## Project Structure
 
 ```plaintext
-Full-Stack-Web-Development/
-├── software-engineer-info-hub/
-│   ├── index.html          # Main page
-│   ├── images/             # Stores images used on the website
-│   │   └── software_development.jpeg
-│   ├── resources.html      # Resources page (if applicable)
-│   └── README.md           # Project description
+Software-Engineer-Info-Hub/
+├── index.html                # Main page
+├── favicon.ico               # Icon for the website
+├── images/                   # Stores images used on the website
+│   └── software_development.jpeg
+├── resources.html            # Resources page
+└── README.md                 # Project description
 ```
 
 ## How to View This Project
