@@ -27,7 +27,8 @@ Full-Stack-Web-Development/
 │   ├── images/             # Stores images used on the website
 │   │   └── software_development.jpeg
 │   ├── resources.html      # Resources page (if applicable)
-│   └── README.md           # Project description ```
+│   └── README.md           # Project description
+```
 
 ## How to View This Project
 
