@@ -35,7 +35,7 @@ Full-Stack-Web-Development/
 1. Clone or download this repository.
 2. Open the `index.html` file directly in a browser.
 3. You can also view the deployed version of the website here:  
-👉 [Software Engineer Information Hub](URL_TO_DEPLOYED_VERSION)
+👉 [Software Engineer Information Hub](https://wanlinyang1111.github.io/Software-Engineer-Info-Hub/)
 
 ## Learning Reflection
 
